@@ -1,8 +1,9 @@
 # LinkedIn Hiring Posts Automation Setup (Feb 2026)
 
 ## Visual Overview – n8n Workflow Console
+<img width="1165" height="549" alt="n8n Console" src="https://github.com/user-attachments/assets/40102310-63dc-43af-ac4c-3bdba9d35083" />
 
-![n8n Workflow Console Screenshot](n8n Console.png)
+
 
 ---
 
@@ -65,4 +66,5 @@ This is a complete **end-to-end automation** that scrapes recent LinkedIn hiring
 4. Run once → then run the notebook (or schedule it)
 
 ---
+
 
