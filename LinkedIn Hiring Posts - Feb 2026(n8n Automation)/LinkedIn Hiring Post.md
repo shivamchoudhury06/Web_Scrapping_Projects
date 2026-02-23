@@ -4,10 +4,6 @@
 
 ![n8n Workflow Console Screenshot](n8n Console.png)
 
-> **Paste your screenshot here**  
-> Save your screenshot as **`n8n-console-screenshot.png`** in the same folder as this README.md  
-> The image will automatically appear when viewed on GitHub, Notion, Obsidian, or any Markdown viewer.
-
 ---
 
 ## Overview
@@ -69,3 +65,4 @@ This is a complete **end-to-end automation** that scrapes recent LinkedIn hiring
 4. Run once → then run the notebook (or schedule it)
 
 ---
+
